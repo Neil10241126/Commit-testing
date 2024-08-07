@@ -6,7 +6,7 @@ import TheWelcome from './components/TheWelcome.vue'
 <template>
   <header>
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-    <input type="text" placeholder="請輸入文字內容">
+    <input type="number" placeholder="請輸入數字內容">
     <button type="button">上傳訊息</button>
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
